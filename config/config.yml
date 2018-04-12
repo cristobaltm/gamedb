@@ -1,0 +1,54 @@
+#############################
+## CONFIGURACIÓN DEL SITIO ##
+#############################
+
+# email del administrador
+ADMIN_EMAIL: cristobaltm@gmail.com
+
+# Nombre del autor
+AUTHOR_NAME: ©ristóbal Torres Montero
+
+# Web del grupo
+GROUP_WEB: https://github.com/cristobaltm
+
+# Lenguajes permitidos. Separados por comas, sin espacios
+ALLOWED_LANGUAGES: es,en
+
+#########################
+## VALORES POR DEFECTO ##
+#########################
+
+# Lenguaje por defecto
+DEFAULT_LANG: es
+
+# Controlador por defecto (también modelo y vista)
+DEFAULT_CONTROLLER: index
+
+# Acción por defecto
+DEFAULT_ACTION: main
+
+# Plantilla por defecto
+DEFAULT_TEMPLATE: index
+
+# Entorno por defecto
+DEFAULT_ENVIRONMENT: dev
+
+
+###########
+## RUTAS ##
+###########
+
+# Ruta del sitio en producción
+PATH_SITE_PROD: http://localhost/mvc_PROD
+
+# Ruta del sitio en desarrollo
+PATH_SITE_DEV: http://localhost/mvc/
+
+# Página en facebook
+URL_FACEBOOK: https://www.facebook.com/
+
+# Página en twitter
+URL_TWITTER: https://www.twitter.com/
+
+# Página en instagram
+URL_INSTAGRAM: https://www.instagram.com/
